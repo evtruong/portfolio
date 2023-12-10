@@ -2,6 +2,6 @@ body {
     font-family: 'Bebas Neue', sans-serif;
     background: #B97CAC;
 }
-nav {
+.navbar-text {
     color: #B97CAC;
 }
